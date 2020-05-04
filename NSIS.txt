@@ -1,0 +1,9 @@
+1.下载nis edit和nsis
+2.nis edit菜单栏nsis中配置项，编译器路径选择nsis中的makensis.exe，帮助项选择NSIS.chm
+3.nis edit文件新建脚本：向导
+4.配置应用程序名称以及版本
+5.其余默认，语言选择simpChinese
+6.默认，下一步目的目录选择你打包的exe
+7.默认下一步，完成。
+8.nis edit菜单栏选择nsis，编译脚本，保存Untitled01.nsi文件
+9.编译报错的代码，直接删掉这一行，直到编译成功。
