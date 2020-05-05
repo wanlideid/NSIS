@@ -1,3 +1,2 @@
-# learngit
-first learngit
-git git git
+# NSIS
+NSIS 打包过程
